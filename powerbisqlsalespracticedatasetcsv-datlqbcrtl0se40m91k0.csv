@@ -1,0 +1,151 @@
+OrderID,OrderDate,CustomerID,CustomerName,City,State,Region,ProductID,ProductName,Category,Quantity,UnitPrice,DiscountPercent,GrossAmount,DiscountAmount,NetAmount,TaxPercent,TaxAmount,TotalAmount,Salesperson,PaymentMethod,SalesChannel
+O1001,2025-04-25,C011,Sourav Ghosh,Kolkata,West Bengal,East,P002,Desktop,Electronics,1,42000,10,42000,4200.0,37800.0,5,1890.0,39690.0,Moumita,Cash,Online
+O1002,2025-04-22,C010,Ananya Bose,Chennai,Tamil Nadu,South,P007,Headphones,Accessories,1,2500,0,2500,0.0,2500.0,5,125.0,2625.0,Moumita,Cash,Online
+O1003,2025-10-29,C012,Riya Paul,Guwahati,Assam,East,P009,Tablet,Electronics,4,28000,5,112000,5600.0,106400.0,12,12768.0,119168.0,Raj,Cash,Online
+O1004,2025-04-21,C012,Riya Paul,Guwahati,Assam,East,P007,Headphones,Accessories,3,2500,10,7500,750.0,6750.0,5,337.5,7087.5,Raj,Cash,Online
+O1005,2025-05-16,C007,Rohan Gupta,Pune,Maharashtra,West,P002,Desktop,Electronics,3,42000,10,126000,12600.0,113400.0,18,20412.0,133812.0,Ankit,Bank Transfer,Online
+O1006,2025-11-13,C007,Rohan Gupta,Pune,Maharashtra,West,P002,Desktop,Electronics,5,42000,10,210000,21000.0,189000.0,18,34020.0,223020.0,Raj,Card,Online
+O1007,2025-02-21,C001,Amit Sharma,Kolkata,West Bengal,East,P004,Keyboard,Accessories,3,1800,0,5400,0.0,5400.0,5,270.0,5670.0,Suman,UPI,Store
+O1008,2025-04-18,C011,Sourav Ghosh,Kolkata,West Bengal,East,P006,Printer,Electronics,2,12500,10,25000,2500.0,22500.0,12,2700.0,25200.0,Tanya,UPI,Online
+O1009,2025-08-25,C010,Ananya Bose,Chennai,Tamil Nadu,South,P003,Monitor,Electronics,5,15000,5,75000,3750.0,71250.0,5,3562.5,74812.5,Suman,UPI,Online
+O1010,2025-06-11,C011,Sourav Ghosh,Kolkata,West Bengal,East,P006,Printer,Electronics,1,12500,5,12500,625.0,11875.0,5,593.75,12468.75,Suman,UPI,Online
+O1011,2025-12-02,C004,Sneha Roy,Bhubaneswar,Odisha,East,P010,Office Chair,Furniture,6,8500,10,51000,5100.0,45900.0,5,2295.0,48195.0,Suman,Bank Transfer,Store
+O1012,2025-10-15,C003,Rahul Sen,Siliguri,West Bengal,East,P005,Mouse,Accessories,2,900,5,1800,90.0,1710.0,18,307.8,2017.8,Karan,UPI,Store
+O1013,2025-09-18,C010,Ananya Bose,Chennai,Tamil Nadu,South,P007,Headphones,Accessories,3,2500,5,7500,375.0,7125.0,5,356.25,7481.25,Suman,Cash,Online
+O1014,2025-08-05,C002,Priya Das,Durgapur,West Bengal,East,P003,Monitor,Electronics,6,15000,5,90000,4500.0,85500.0,18,15390.0,100890.0,Karan,Cash,Store
+O1015,2025-10-11,C007,Rohan Gupta,Pune,Maharashtra,West,P010,Office Chair,Furniture,4,8500,20,34000,6800.0,27200.0,12,3264.0,30464.0,Ankit,Cash,Store
+O1016,2025-03-22,C011,Sourav Ghosh,Kolkata,West Bengal,East,P006,Printer,Electronics,1,12500,10,12500,1250.0,11250.0,12,1350.0,12600.0,Suman,Cash,Store
+O1017,2025-06-02,C009,Vikram Rao,Hyderabad,Telangana,South,P003,Monitor,Electronics,5,15000,0,75000,0.0,75000.0,18,13500.0,88500.0,Tanya,Card,Online
+O1018,2025-11-03,C006,Neha Singh,Mumbai,Maharashtra,West,P003,Monitor,Electronics,5,15000,20,75000,15000.0,60000.0,5,3000.0,63000.0,Raj,Bank Transfer,Online
+O1019,2025-05-04,C002,Priya Das,Durgapur,West Bengal,East,P006,Printer,Electronics,3,12500,5,37500,1875.0,35625.0,5,1781.25,37406.25,Karan,Cash,Online
+O1020,2025-03-07,C012,Riya Paul,Guwahati,Assam,East,P008,Webcam,Accessories,1,3200,20,3200,640.0,2560.0,5,128.0,2688.0,Tanya,Bank Transfer,Online
+O1021,2025-10-04,C005,Arjun Mehta,Delhi,Delhi,North,P009,Tablet,Electronics,5,28000,15,140000,21000.0,119000.0,5,5950.0,124950.0,Tanya,Card,Store
+O1022,2025-03-03,C007,Rohan Gupta,Pune,Maharashtra,West,P006,Printer,Electronics,4,12500,20,50000,10000.0,40000.0,12,4800.0,44800.0,Moumita,Card,Online
+O1023,2025-10-29,C006,Neha Singh,Mumbai,Maharashtra,West,P001,Laptop,Electronics,5,55000,20,275000,55000.0,220000.0,5,11000.0,231000.0,Moumita,Cash,Online
+O1024,2025-06-19,C012,Riya Paul,Guwahati,Assam,East,P001,Laptop,Electronics,2,55000,0,110000,0.0,110000.0,5,5500.0,115500.0,Ankit,Card,Store
+O1025,2025-10-20,C011,Sourav Ghosh,Kolkata,West Bengal,East,P008,Webcam,Accessories,2,3200,20,6400,1280.0,5120.0,5,256.0,5376.0,Karan,Bank Transfer,Online
+O1026,2025-12-04,C008,Pooja Nair,Bengaluru,Karnataka,South,P007,Headphones,Accessories,2,2500,0,5000,0.0,5000.0,5,250.0,5250.0,Suman,UPI,Store
+O1027,2025-12-01,C007,Rohan Gupta,Pune,Maharashtra,West,P008,Webcam,Accessories,6,3200,0,19200,0.0,19200.0,18,3456.0,22656.0,Tanya,Cash,Online
+O1028,2025-04-08,C007,Rohan Gupta,Pune,Maharashtra,West,P006,Printer,Electronics,1,12500,5,12500,625.0,11875.0,5,593.75,12468.75,Karan,Bank Transfer,Online
+O1029,2025-02-08,C007,Rohan Gupta,Pune,Maharashtra,West,P003,Monitor,Electronics,3,15000,15,45000,6750.0,38250.0,5,1912.5,40162.5,Suman,Cash,Online
+O1030,2025-03-27,C011,Sourav Ghosh,Kolkata,West Bengal,East,P009,Tablet,Electronics,1,28000,0,28000,0.0,28000.0,5,1400.0,29400.0,Suman,Bank Transfer,Store
+O1031,2025-01-02,C004,Sneha Roy,Bhubaneswar,Odisha,East,P007,Headphones,Accessories,1,2500,5,2500,125.0,2375.0,12,285.0,2660.0,Suman,UPI,Store
+O1032,2025-09-07,C005,Arjun Mehta,Delhi,Delhi,North,P007,Headphones,Accessories,6,2500,20,15000,3000.0,12000.0,18,2160.0,14160.0,Moumita,Card,Store
+O1033,2025-06-10,C004,Sneha Roy,Bhubaneswar,Odisha,East,P001,Laptop,Electronics,5,55000,20,275000,55000.0,220000.0,5,11000.0,231000.0,Ankit,Cash,Store
+O1034,2025-02-11,C009,Vikram Rao,Hyderabad,Telangana,South,P009,Tablet,Electronics,2,28000,0,56000,0.0,56000.0,18,10080.0,66080.0,Moumita,Cash,Online
+O1035,2025-05-07,C011,Sourav Ghosh,Kolkata,West Bengal,East,P004,Keyboard,Accessories,4,1800,0,7200,0.0,7200.0,18,1296.0,8496.0,Karan,Cash,Online
+O1036,2025-05-14,C007,Rohan Gupta,Pune,Maharashtra,West,P010,Office Chair,Furniture,5,8500,20,42500,8500.0,34000.0,12,4080.0,38080.0,Moumita,UPI,Online
+O1037,2025-06-11,C005,Arjun Mehta,Delhi,Delhi,North,P007,Headphones,Accessories,2,2500,10,5000,500.0,4500.0,12,540.0,5040.0,Ankit,Cash,Store
+O1038,2025-04-20,C010,Ananya Bose,Chennai,Tamil Nadu,South,P010,Office Chair,Furniture,1,8500,0,8500,0.0,8500.0,18,1530.0,10030.0,Karan,UPI,Online
+O1039,2025-03-22,C006,Neha Singh,Mumbai,Maharashtra,West,P002,Desktop,Electronics,2,42000,10,84000,8400.0,75600.0,12,9072.0,84672.0,Suman,UPI,Online
+O1040,2025-05-16,C011,Sourav Ghosh,Kolkata,West Bengal,East,P009,Tablet,Electronics,3,28000,0,84000,0.0,84000.0,5,4200.0,88200.0,Ankit,Cash,Online
+O1041,2025-06-25,C005,Arjun Mehta,Delhi,Delhi,North,P005,Mouse,Accessories,5,900,5,4500,225.0,4275.0,18,769.5,5044.5,Moumita,UPI,Store
+O1042,2025-01-23,C005,Arjun Mehta,Delhi,Delhi,North,P001,Laptop,Electronics,1,55000,15,55000,8250.0,46750.0,12,5610.0,52360.0,Ankit,UPI,Online
+O1043,2025-12-28,C011,Sourav Ghosh,Kolkata,West Bengal,East,P005,Mouse,Accessories,2,900,15,1800,270.0,1530.0,18,275.4,1805.4,Suman,Cash,Online
+O1044,2025-10-26,C002,Priya Das,Durgapur,West Bengal,East,P003,Monitor,Electronics,5,15000,0,75000,0.0,75000.0,12,9000.0,84000.0,Karan,Card,Store
+O1045,2025-07-03,C003,Rahul Sen,Siliguri,West Bengal,East,P001,Laptop,Electronics,3,55000,10,165000,16500.0,148500.0,5,7425.0,155925.0,Moumita,Card,Online
+O1046,2025-03-21,C006,Neha Singh,Mumbai,Maharashtra,West,P009,Tablet,Electronics,4,28000,20,112000,22400.0,89600.0,18,16128.0,105728.0,Moumita,Card,Online
+O1047,2025-12-09,C007,Rohan Gupta,Pune,Maharashtra,West,P001,Laptop,Electronics,2,55000,10,110000,11000.0,99000.0,12,11880.0,110880.0,Tanya,Card,Store
+O1048,2025-04-24,C003,Rahul Sen,Siliguri,West Bengal,East,P002,Desktop,Electronics,4,42000,0,168000,0.0,168000.0,12,20160.0,188160.0,Moumita,Bank Transfer,Store
+O1049,2025-04-09,C005,Arjun Mehta,Delhi,Delhi,North,P004,Keyboard,Accessories,2,1800,0,3600,0.0,3600.0,18,648.0,4248.0,Suman,UPI,Store
+O1050,2025-12-14,C002,Priya Das,Durgapur,West Bengal,East,P005,Mouse,Accessories,3,900,20,2700,540.0,2160.0,12,259.2,2419.2,Karan,UPI,Online
+O1051,2025-01-20,C002,Priya Das,Durgapur,West Bengal,East,P005,Mouse,Accessories,2,900,20,1800,360.0,1440.0,12,172.8,1612.8,Ankit,Bank Transfer,Store
+O1052,2025-03-01,C012,Riya Paul,Guwahati,Assam,East,P006,Printer,Electronics,4,12500,20,50000,10000.0,40000.0,18,7200.0,47200.0,Suman,Card,Store
+O1053,2025-12-18,C001,Amit Sharma,Kolkata,West Bengal,East,P007,Headphones,Accessories,1,2500,20,2500,500.0,2000.0,18,360.0,2360.0,Tanya,Card,Store
+O1054,2025-06-10,C007,Rohan Gupta,Pune,Maharashtra,West,P002,Desktop,Electronics,6,42000,10,252000,25200.0,226800.0,18,40824.0,267624.0,Tanya,Cash,Store
+O1055,2025-07-26,C009,Vikram Rao,Hyderabad,Telangana,South,P005,Mouse,Accessories,6,900,15,5400,810.0,4590.0,12,550.8,5140.8,Tanya,UPI,Online
+O1056,2025-03-31,C004,Sneha Roy,Bhubaneswar,Odisha,East,P007,Headphones,Accessories,6,2500,15,15000,2250.0,12750.0,18,2295.0,15045.0,Karan,UPI,Store
+O1057,2025-08-09,C009,Vikram Rao,Hyderabad,Telangana,South,P001,Laptop,Electronics,3,55000,10,165000,16500.0,148500.0,5,7425.0,155925.0,Karan,UPI,Store
+O1058,2025-08-31,C008,Pooja Nair,Bengaluru,Karnataka,South,P008,Webcam,Accessories,6,3200,5,19200,960.0,18240.0,18,3283.2,21523.2,Tanya,Card,Online
+O1059,2025-02-17,C005,Arjun Mehta,Delhi,Delhi,North,P009,Tablet,Electronics,6,28000,20,168000,33600.0,134400.0,12,16128.0,150528.0,Moumita,UPI,Online
+O1060,2025-09-01,C004,Sneha Roy,Bhubaneswar,Odisha,East,P003,Monitor,Electronics,1,15000,0,15000,0.0,15000.0,5,750.0,15750.0,Karan,Cash,Store
+O1061,2025-07-24,C007,Rohan Gupta,Pune,Maharashtra,West,P010,Office Chair,Furniture,2,8500,15,17000,2550.0,14450.0,12,1734.0,16184.0,Moumita,Card,Online
+O1062,2025-09-23,C002,Priya Das,Durgapur,West Bengal,East,P007,Headphones,Accessories,2,2500,5,5000,250.0,4750.0,18,855.0,5605.0,Suman,Cash,Online
+O1063,2025-09-29,C002,Priya Das,Durgapur,West Bengal,East,P008,Webcam,Accessories,2,3200,15,6400,960.0,5440.0,18,979.2,6419.2,Karan,UPI,Store
+O1064,2025-03-23,C010,Ananya Bose,Chennai,Tamil Nadu,South,P009,Tablet,Electronics,4,28000,20,112000,22400.0,89600.0,12,10752.0,100352.0,Tanya,Bank Transfer,Store
+O1065,2025-09-06,C005,Arjun Mehta,Delhi,Delhi,North,P004,Keyboard,Accessories,6,1800,10,10800,1080.0,9720.0,18,1749.6,11469.6,Tanya,Card,Store
+O1066,2025-05-20,C008,Pooja Nair,Bengaluru,Karnataka,South,P002,Desktop,Electronics,6,42000,10,252000,25200.0,226800.0,5,11340.0,238140.0,Raj,UPI,Online
+O1067,2025-03-20,C003,Rahul Sen,Siliguri,West Bengal,East,P003,Monitor,Electronics,2,15000,15,30000,4500.0,25500.0,18,4590.0,30090.0,Tanya,Card,Online
+O1068,2025-08-01,C007,Rohan Gupta,Pune,Maharashtra,West,P007,Headphones,Accessories,3,2500,20,7500,1500.0,6000.0,12,720.0,6720.0,Ankit,Card,Store
+O1069,2025-07-14,C007,Rohan Gupta,Pune,Maharashtra,West,P010,Office Chair,Furniture,6,8500,0,51000,0.0,51000.0,18,9180.0,60180.0,Suman,Cash,Store
+O1070,2025-10-07,C005,Arjun Mehta,Delhi,Delhi,North,P007,Headphones,Accessories,4,2500,20,10000,2000.0,8000.0,18,1440.0,9440.0,Karan,Card,Store
+O1071,2025-07-19,C004,Sneha Roy,Bhubaneswar,Odisha,East,P005,Mouse,Accessories,4,900,15,3600,540.0,3060.0,5,153.0,3213.0,Raj,Bank Transfer,Online
+O1072,2025-07-21,C008,Pooja Nair,Bengaluru,Karnataka,South,P003,Monitor,Electronics,5,15000,20,75000,15000.0,60000.0,5,3000.0,63000.0,Karan,Cash,Online
+O1073,2025-01-26,C011,Sourav Ghosh,Kolkata,West Bengal,East,P007,Headphones,Accessories,2,2500,15,5000,750.0,4250.0,5,212.5,4462.5,Raj,Bank Transfer,Store
+O1074,2025-05-23,C004,Sneha Roy,Bhubaneswar,Odisha,East,P008,Webcam,Accessories,3,3200,10,9600,960.0,8640.0,12,1036.8,9676.8,Suman,UPI,Online
+O1075,2025-06-29,C008,Pooja Nair,Bengaluru,Karnataka,South,P001,Laptop,Electronics,6,55000,20,330000,66000.0,264000.0,5,13200.0,277200.0,Moumita,Cash,Online
+O1076,2025-03-20,C001,Amit Sharma,Kolkata,West Bengal,East,P004,Keyboard,Accessories,2,1800,0,3600,0.0,3600.0,18,648.0,4248.0,Moumita,Card,Store
+O1077,2025-12-25,C011,Sourav Ghosh,Kolkata,West Bengal,East,P002,Desktop,Electronics,5,42000,5,210000,10500.0,199500.0,12,23940.0,223440.0,Raj,UPI,Online
+O1078,2025-06-09,C010,Ananya Bose,Chennai,Tamil Nadu,South,P010,Office Chair,Furniture,6,8500,0,51000,0.0,51000.0,5,2550.0,53550.0,Ankit,Cash,Store
+O1079,2025-10-31,C010,Ananya Bose,Chennai,Tamil Nadu,South,P007,Headphones,Accessories,4,2500,5,10000,500.0,9500.0,5,475.0,9975.0,Tanya,Card,Online
+O1080,2025-10-17,C012,Riya Paul,Guwahati,Assam,East,P005,Mouse,Accessories,6,900,20,5400,1080.0,4320.0,5,216.0,4536.0,Ankit,UPI,Store
+O1081,2025-06-24,C011,Sourav Ghosh,Kolkata,West Bengal,East,P006,Printer,Electronics,1,12500,20,12500,2500.0,10000.0,18,1800.0,11800.0,Ankit,Bank Transfer,Store
+O1082,2025-03-20,C002,Priya Das,Durgapur,West Bengal,East,P007,Headphones,Accessories,3,2500,15,7500,1125.0,6375.0,18,1147.5,7522.5,Suman,Card,Store
+O1083,2025-10-31,C010,Ananya Bose,Chennai,Tamil Nadu,South,P009,Tablet,Electronics,4,28000,15,112000,16800.0,95200.0,12,11424.0,106624.0,Raj,UPI,Online
+O1084,2025-10-19,C002,Priya Das,Durgapur,West Bengal,East,P005,Mouse,Accessories,4,900,5,3600,180.0,3420.0,12,410.4,3830.4,Karan,Bank Transfer,Store
+O1085,2025-04-19,C001,Amit Sharma,Kolkata,West Bengal,East,P008,Webcam,Accessories,3,3200,5,9600,480.0,9120.0,12,1094.4,10214.4,Raj,UPI,Store
+O1086,2025-01-06,C005,Arjun Mehta,Delhi,Delhi,North,P010,Office Chair,Furniture,6,8500,10,51000,5100.0,45900.0,18,8262.0,54162.0,Karan,Card,Online
+O1087,2025-12-20,C004,Sneha Roy,Bhubaneswar,Odisha,East,P007,Headphones,Accessories,4,2500,20,10000,2000.0,8000.0,5,400.0,8400.0,Suman,Bank Transfer,Store
+O1088,2025-12-21,C001,Amit Sharma,Kolkata,West Bengal,East,P002,Desktop,Electronics,3,42000,5,126000,6300.0,119700.0,12,14364.0,134064.0,Moumita,UPI,Store
+O1089,2025-10-09,C008,Pooja Nair,Bengaluru,Karnataka,South,P009,Tablet,Electronics,5,28000,10,140000,14000.0,126000.0,12,15120.0,141120.0,Raj,UPI,Store
+O1090,2025-04-09,C005,Arjun Mehta,Delhi,Delhi,North,P005,Mouse,Accessories,3,900,5,2700,135.0,2565.0,5,128.25,2693.25,Raj,Cash,Online
+O1091,2025-10-29,C004,Sneha Roy,Bhubaneswar,Odisha,East,P004,Keyboard,Accessories,6,1800,15,10800,1620.0,9180.0,12,1101.6,10281.6,Karan,UPI,Online
+O1092,2025-06-04,C004,Sneha Roy,Bhubaneswar,Odisha,East,P005,Mouse,Accessories,2,900,10,1800,180.0,1620.0,5,81.0,1701.0,Ankit,Card,Store
+O1093,2025-03-06,C001,Amit Sharma,Kolkata,West Bengal,East,P001,Laptop,Electronics,5,55000,10,275000,27500.0,247500.0,18,44550.0,292050.0,Tanya,Bank Transfer,Online
+O1094,2025-08-14,C001,Amit Sharma,Kolkata,West Bengal,East,P010,Office Chair,Furniture,3,8500,15,25500,3825.0,21675.0,12,2601.0,24276.0,Raj,Card,Online
+O1095,2025-09-09,C005,Arjun Mehta,Delhi,Delhi,North,P008,Webcam,Accessories,1,3200,0,3200,0.0,3200.0,12,384.0,3584.0,Ankit,Cash,Online
+O1096,2025-03-02,C003,Rahul Sen,Siliguri,West Bengal,East,P010,Office Chair,Furniture,3,8500,0,25500,0.0,25500.0,5,1275.0,26775.0,Karan,Bank Transfer,Online
+O1097,2025-10-29,C009,Vikram Rao,Hyderabad,Telangana,South,P007,Headphones,Accessories,4,2500,15,10000,1500.0,8500.0,12,1020.0,9520.0,Suman,UPI,Online
+O1098,2025-12-05,C010,Ananya Bose,Chennai,Tamil Nadu,South,P002,Desktop,Electronics,2,42000,5,84000,4200.0,79800.0,12,9576.0,89376.0,Ankit,Card,Online
+O1099,2025-07-29,C003,Rahul Sen,Siliguri,West Bengal,East,P009,Tablet,Electronics,1,28000,5,28000,1400.0,26600.0,5,1330.0,27930.0,Suman,Bank Transfer,Store
+O1100,2025-08-21,C001,Amit Sharma,Kolkata,West Bengal,East,P004,Keyboard,Accessories,3,1800,10,5400,540.0,4860.0,18,874.8,5734.8,Ankit,Card,Store
+O1101,2025-02-28,C011,Sourav Ghosh,Kolkata,West Bengal,East,P010,Office Chair,Furniture,6,8500,5,51000,2550.0,48450.0,12,5814.0,54264.0,Karan,Card,Online
+O1102,2025-06-07,C005,Arjun Mehta,Delhi,Delhi,North,P003,Monitor,Electronics,1,15000,0,15000,0.0,15000.0,5,750.0,15750.0,Karan,UPI,Store
+O1103,2025-07-26,C002,Priya Das,Durgapur,West Bengal,East,P008,Webcam,Accessories,6,3200,10,19200,1920.0,17280.0,18,3110.4,20390.4,Raj,Bank Transfer,Store
+O1104,2025-06-15,C002,Priya Das,Durgapur,West Bengal,East,P010,Office Chair,Furniture,1,8500,15,8500,1275.0,7225.0,18,1300.5,8525.5,Karan,UPI,Online
+O1105,2025-01-11,C002,Priya Das,Durgapur,West Bengal,East,P004,Keyboard,Accessories,6,1800,20,10800,2160.0,8640.0,18,1555.2,10195.2,Tanya,UPI,Online
+O1106,2025-04-03,C003,Rahul Sen,Siliguri,West Bengal,East,P008,Webcam,Accessories,5,3200,15,16000,2400.0,13600.0,12,1632.0,15232.0,Karan,Bank Transfer,Store
+O1107,2025-06-14,C002,Priya Das,Durgapur,West Bengal,East,P008,Webcam,Accessories,3,3200,15,9600,1440.0,8160.0,12,979.2,9139.2,Tanya,Cash,Online
+O1108,2025-12-06,C006,Neha Singh,Mumbai,Maharashtra,West,P007,Headphones,Accessories,6,2500,15,15000,2250.0,12750.0,12,1530.0,14280.0,Suman,Cash,Store
+O1109,2025-07-26,C002,Priya Das,Durgapur,West Bengal,East,P006,Printer,Electronics,3,12500,10,37500,3750.0,33750.0,5,1687.5,35437.5,Karan,Cash,Store
+O1110,2025-11-15,C007,Rohan Gupta,Pune,Maharashtra,West,P001,Laptop,Electronics,2,55000,20,110000,22000.0,88000.0,12,10560.0,98560.0,Suman,Bank Transfer,Online
+O1111,2025-08-13,C004,Sneha Roy,Bhubaneswar,Odisha,East,P005,Mouse,Accessories,5,900,5,4500,225.0,4275.0,12,513.0,4788.0,Tanya,Bank Transfer,Online
+O1112,2025-10-10,C001,Amit Sharma,Kolkata,West Bengal,East,P010,Office Chair,Furniture,2,8500,5,17000,850.0,16150.0,12,1938.0,18088.0,Ankit,Bank Transfer,Online
+O1113,2025-03-20,C004,Sneha Roy,Bhubaneswar,Odisha,East,P002,Desktop,Electronics,4,42000,0,168000,0.0,168000.0,18,30240.0,198240.0,Suman,UPI,Store
+O1114,2025-10-10,C007,Rohan Gupta,Pune,Maharashtra,West,P008,Webcam,Accessories,4,3200,5,12800,640.0,12160.0,12,1459.2,13619.2,Moumita,Bank Transfer,Online
+O1115,2025-05-22,C010,Ananya Bose,Chennai,Tamil Nadu,South,P009,Tablet,Electronics,6,28000,5,168000,8400.0,159600.0,5,7980.0,167580.0,Suman,UPI,Store
+O1116,2025-10-24,C001,Amit Sharma,Kolkata,West Bengal,East,P005,Mouse,Accessories,6,900,10,5400,540.0,4860.0,18,874.8,5734.8,Tanya,Bank Transfer,Online
+O1117,2025-10-10,C008,Pooja Nair,Bengaluru,Karnataka,South,P009,Tablet,Electronics,4,28000,10,112000,11200.0,100800.0,12,12096.0,112896.0,Karan,Bank Transfer,Store
+O1118,2025-07-16,C006,Neha Singh,Mumbai,Maharashtra,West,P004,Keyboard,Accessories,6,1800,5,10800,540.0,10260.0,18,1846.8,12106.8,Moumita,Bank Transfer,Online
+O1119,2025-12-06,C006,Neha Singh,Mumbai,Maharashtra,West,P008,Webcam,Accessories,6,3200,15,19200,2880.0,16320.0,12,1958.4,18278.4,Tanya,Card,Store
+O1120,2025-02-21,C001,Amit Sharma,Kolkata,West Bengal,East,P003,Monitor,Electronics,5,15000,20,75000,15000.0,60000.0,12,7200.0,67200.0,Suman,Cash,Store
+O1121,2025-08-29,C001,Amit Sharma,Kolkata,West Bengal,East,P003,Monitor,Electronics,4,15000,5,60000,3000.0,57000.0,5,2850.0,59850.0,Raj,UPI,Store
+O1122,2025-06-12,C011,Sourav Ghosh,Kolkata,West Bengal,East,P002,Desktop,Electronics,3,42000,20,126000,25200.0,100800.0,12,12096.0,112896.0,Tanya,Bank Transfer,Online
+O1123,2025-02-16,C010,Ananya Bose,Chennai,Tamil Nadu,South,P002,Desktop,Electronics,2,42000,10,84000,8400.0,75600.0,5,3780.0,79380.0,Suman,Cash,Online
+O1124,2025-01-24,C008,Pooja Nair,Bengaluru,Karnataka,South,P003,Monitor,Electronics,6,15000,10,90000,9000.0,81000.0,5,4050.0,85050.0,Raj,Cash,Store
+O1125,2025-09-29,C006,Neha Singh,Mumbai,Maharashtra,West,P006,Printer,Electronics,4,12500,5,50000,2500.0,47500.0,5,2375.0,49875.0,Suman,Card,Online
+O1126,2025-12-16,C003,Rahul Sen,Siliguri,West Bengal,East,P002,Desktop,Electronics,5,42000,15,210000,31500.0,178500.0,18,32130.0,210630.0,Moumita,Bank Transfer,Online
+O1127,2025-05-11,C004,Sneha Roy,Bhubaneswar,Odisha,East,P008,Webcam,Accessories,6,3200,10,19200,1920.0,17280.0,12,2073.6,19353.6,Tanya,Cash,Store
+O1128,2025-06-26,C005,Arjun Mehta,Delhi,Delhi,North,P009,Tablet,Electronics,2,28000,0,56000,0.0,56000.0,12,6720.0,62720.0,Karan,UPI,Store
+O1129,2025-07-16,C012,Riya Paul,Guwahati,Assam,East,P005,Mouse,Accessories,4,900,10,3600,360.0,3240.0,5,162.0,3402.0,Suman,Cash,Online
+O1130,2025-12-25,C007,Rohan Gupta,Pune,Maharashtra,West,P010,Office Chair,Furniture,3,8500,20,25500,5100.0,20400.0,12,2448.0,22848.0,Raj,Cash,Store
+O1131,2025-09-12,C005,Arjun Mehta,Delhi,Delhi,North,P001,Laptop,Electronics,5,55000,0,275000,0.0,275000.0,18,49500.0,324500.0,Raj,Card,Store
+O1132,2025-12-04,C004,Sneha Roy,Bhubaneswar,Odisha,East,P004,Keyboard,Accessories,5,1800,10,9000,900.0,8100.0,18,1458.0,9558.0,Tanya,Card,Online
+O1133,2025-10-24,C011,Sourav Ghosh,Kolkata,West Bengal,East,P001,Laptop,Electronics,3,55000,15,165000,24750.0,140250.0,5,7012.5,147262.5,Raj,Card,Online
+O1134,2025-04-13,C005,Arjun Mehta,Delhi,Delhi,North,P006,Printer,Electronics,6,12500,15,75000,11250.0,63750.0,5,3187.5,66937.5,Moumita,UPI,Store
+O1135,2025-06-23,C003,Rahul Sen,Siliguri,West Bengal,East,P005,Mouse,Accessories,4,900,10,3600,360.0,3240.0,18,583.2,3823.2,Ankit,Bank Transfer,Online
+O1136,2025-07-07,C003,Rahul Sen,Siliguri,West Bengal,East,P004,Keyboard,Accessories,6,1800,15,10800,1620.0,9180.0,18,1652.4,10832.4,Ankit,Bank Transfer,Online
+O1137,2025-12-11,C005,Arjun Mehta,Delhi,Delhi,North,P009,Tablet,Electronics,1,28000,15,28000,4200.0,23800.0,12,2856.0,26656.0,Tanya,UPI,Store
+O1138,2025-01-13,C011,Sourav Ghosh,Kolkata,West Bengal,East,P006,Printer,Electronics,1,12500,5,12500,625.0,11875.0,12,1425.0,13300.0,Karan,UPI,Online
+O1139,2025-06-04,C011,Sourav Ghosh,Kolkata,West Bengal,East,P002,Desktop,Electronics,6,42000,15,252000,37800.0,214200.0,18,38556.0,252756.0,Tanya,Bank Transfer,Online
+O1140,2025-03-01,C003,Rahul Sen,Siliguri,West Bengal,East,P001,Laptop,Electronics,1,55000,10,55000,5500.0,49500.0,12,5940.0,55440.0,Ankit,Card,Online
+O1141,2025-10-28,C007,Rohan Gupta,Pune,Maharashtra,West,P008,Webcam,Accessories,3,3200,20,9600,1920.0,7680.0,12,921.6,8601.6,Tanya,Card,Store
+O1142,2025-05-24,C011,Sourav Ghosh,Kolkata,West Bengal,East,P002,Desktop,Electronics,4,42000,20,168000,33600.0,134400.0,12,16128.0,150528.0,Ankit,UPI,Online
+O1143,2025-12-18,C008,Pooja Nair,Bengaluru,Karnataka,South,P008,Webcam,Accessories,2,3200,10,6400,640.0,5760.0,5,288.0,6048.0,Raj,UPI,Online
+O1144,2025-02-16,C007,Rohan Gupta,Pune,Maharashtra,West,P005,Mouse,Accessories,2,900,0,1800,0.0,1800.0,12,216.0,2016.0,Tanya,Card,Online
+O1145,2025-04-16,C001,Amit Sharma,Kolkata,West Bengal,East,P006,Printer,Electronics,2,12500,5,25000,1250.0,23750.0,18,4275.0,28025.0,Ankit,Card,Online
+O1146,2025-05-22,C004,Sneha Roy,Bhubaneswar,Odisha,East,P006,Printer,Electronics,2,12500,20,25000,5000.0,20000.0,5,1000.0,21000.0,Moumita,Card,Store
+O1147,2025-01-08,C003,Rahul Sen,Siliguri,West Bengal,East,P002,Desktop,Electronics,6,42000,0,252000,0.0,252000.0,5,12600.0,264600.0,Raj,Card,Store
+O1148,2025-08-04,C001,Amit Sharma,Kolkata,West Bengal,East,P003,Monitor,Electronics,3,15000,0,45000,0.0,45000.0,5,2250.0,47250.0,Karan,Cash,Online
+O1149,2025-02-25,C008,Pooja Nair,Bengaluru,Karnataka,South,P008,Webcam,Accessories,3,3200,20,9600,1920.0,7680.0,18,1382.4,9062.4,Suman,Card,Online
+O1150,2025-01-16,C012,Riya Paul,Guwahati,Assam,East,P009,Tablet,Electronics,3,28000,15,84000,12600.0,71400.0,18,12852.0,84252.0,Ankit,Bank Transfer,Store
